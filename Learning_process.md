@@ -6,7 +6,7 @@
 ##### What is the Feynman Technique? Explain in 1 line.
 Feynman's technique taught us that learn a specific process so well that you can teach it to anyone out there.
 
-## 1. TED talk by Barbara Oakley
+## 2. TED talk by Barbara Oakley
 
 ### In this video, what was the most interesting story or idea for you?
 
@@ -17,15 +17,15 @@ of another person which results in realising that their abilities are disabiliti
 
 + **Active mode of thinking**
 
-It is often described when you are focused on something and you don't care what's happening in your surroundings. you
-put your brain cells at work in this mode
+	It is often described when you are focused on something and you don't care what's happening in your surroundings. you
+	put your brain cells at work in this mode
 
 + **Diffused mode of thinking**
 
-It can be described as when you put your brain cell at rest and you often relax by playing games or talking with friends 
-or going on a walk like anything that relaxes you.
+	It can be described as when you put your brain cell at rest and you often relax by playing games or talking with friends 
+	or going on a walk like anything that relaxes you.
 
-## 1. Learn anything in 20 hours
+## 3. Learn anything in 20 hours
 
 ### According to the video, what are the steps to take when approaching a new topic? Only mention the points.
 
@@ -45,7 +45,7 @@ To learn a process you need 20 hours and those 20 hours are divided into the fol
    
 These are the 4 major steps to learn anything in 20 hours.
 
-## 1. Improve yourself
+## 4. Improve yourself
 
 ### What are some of the actions you can take going forward to improve your learning process?
 I will try to focus more on that particular topic and if I am stuck somewhere or not able to understand then I will try to research
